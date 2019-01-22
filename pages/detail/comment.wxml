@@ -1,0 +1,71 @@
+ <view class="content">
+    </view>
+    <view class="assess">
+      <view class="assess-ul">
+        <view class="assess-li">
+          <view class="head-img">
+            <image class="portrait" src="../../imgs/detail/hh.png"></image>
+          </view>
+          <view class="head-right">
+            <view class="head-name">
+              <text class="name-h">正义的玲姐</text>
+              <view class="name-pic"></view>
+            </view>
+            <view class="com-time">
+              <text class="assess-star">
+                <text class="assess-starspan"></text>
+              </text>
+              <text class="assess-time">2018.12.13</text>
+            </view>
+            <text class="assess-text">服务好，每天都要来，超级棒~~~</text>
+            <view class="assess-pic">
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food1.png"></image>
+              </view>
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food2.png"></image>
+              </view>
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food3.png"></image>
+              </view>
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food4.png"></image>
+              </view>
+            </view>
+            
+          </view>
+        </view>
+        <view class="assess-li">
+          <view class="head-img">
+            <image class="portrait" src="../../imgs/detail/hh.png"></image>
+          </view>
+          <view class="head-right">
+            <view class="head-name">
+              <text class="name-h">正义的玲姐</text>
+              <view class="name-pic"></view>
+            </view>
+            <view class="com-time">
+              <text class="assess-star">
+                <text class="assess-starspan"></text>
+              </text>
+              <text class="assess-time">2018.12.14</text>
+            </view>
+            <text class="assess-text">服务好，每天都要来，超级棒~~~</text>
+            <view class="assess-pic">
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food1.png"></image>
+              </view>
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food2.png"></image>
+              </view>
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food3.png"></image>
+              </view>
+              <view class="assess-p">
+                <image class="assess-pimg" src="../../imgs/detail/food4.png"></image>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
